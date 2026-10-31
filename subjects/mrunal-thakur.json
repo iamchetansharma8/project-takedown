@@ -1,0 +1,38 @@
+{
+  "id": "mrunal-thakur",
+  "name": "Mrunal Thakur",
+
+  "_comment_aliases": "Anything the person is called. A result is thrown away unless one of these appears in its title or description. Include the surname alone only if it is distinctive enough not to catch other people.",
+  "aliases": ["Mrunal", "मृणाल ठाकुर", "మృణాల్ ఠాకూర్", "மிருணாள் தாகூர்"],
+
+  "_why_this_person": "On 3 Aug 2026 she posted a formal public warning about deepfake content using her likeness. The incident is live, so the harmful content should still be findable - unlike older famous cases where it has all been removed. She also has genuine critical press coverage from an earlier controversy, which is what lets us test the 'nothing can be done' and 'do not touch' paths.",
+
+  "_comment_search": "Deliberately mixed. Some terms should surface harmful content, some should surface ordinary coverage. The test is whether the judging separates them - not whether we only fetch bad things. 7 terms x 3 pages = about 2,100 of your 10,000 daily quota units.",
+  "search_terms": [
+    "Mrunal Thakur",
+    "Mrunal Thakur deepfake",
+    "Mrunal Thakur AI video",
+    "Mrunal Thakur viral video",
+    "Mrunal Thakur investment",
+    "Mrunal Thakur controversy",
+    "Mrunal Thakur interview"
+  ],
+
+  "lookback_days": 30,
+
+  "_comment_telegram": "Public Telegram channels to read directly, by @username without the @. This is the only mode that works: Telegram's account-wide search only covers channels you can already reach, so with an empty list here you will get nothing. Find channels by searching inside the Telegram app itself, or - in the real product - by asking the client and their staff where they saw it. You do not need to join a public channel to read it.",
+  "telegram_channels": [],
+
+  "_comment_events": "Her 3 August statement is the anchor. Anything posted inside this window should score higher than the same content from July - that is the timing multiplier being tested. Add film releases or promotion dates here if you know them.",
+  "events": [
+    {
+      "label": "Public deepfake warning and threat of legal action",
+      "type": "live_controversy",
+      "date": "2026-08-03",
+      "days_before": 3,
+      "days_after": 21
+    }
+  ],
+
+  "_expected_gap": "The safety axis (home address, movements, routine) will probably score zero for her. That means the axis is untested, not that it works. Do not read a zero there as a pass."
+}

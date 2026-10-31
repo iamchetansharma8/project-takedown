@@ -1,0 +1,25 @@
+# Collected content about real people. Never commit this.
+# It's other people's personal data, and committing it would undermine the
+# match-and-discard rule the whole product is built on.
+data/
+
+# Keys and secrets
+.env
+*.key
+*.pem
+secrets.json
+
+# Telegram login. This file IS a credential - anyone holding it is logged in
+# as you. Never commit it.
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store

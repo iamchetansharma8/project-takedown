@@ -1,0 +1,43 @@
+{
+  "id": "arijit-singh",
+  "name": "Arijit Singh",
+
+  "_why_this_person": "Arijit Singh v. Codible Ventures LLP, Bombay High Court, 26 July 2024 - India's first AI voice-cloning decision. The court protected his voice, vocal style, technique, arrangements and mannerisms, and granted an ex-parte injunction. So unlike the deepfake work, the remedy here is proven and named after him. AI covers of his voice are also abundant on YouTube and are not removed, which means there is actually something to find.",
+
+  "_legal_note": "The court required the unauthorised use to be FOR COMMERCIAL GAIN. That is why views and monetisation signals feed the score - scale is a legal element here, not just a proxy for how annoying something is.",
+
+  "aliases": ["Arijit", "अरिजीत सिंह", "আরিজিৎ সিং"],
+
+  "_comment_official": "His own channel and the labels licensed to release his work. Anything from these is authorised by definition, so the likeness axis is switched off for them. Matched as substrings against the channel name, case-insensitive. This list is the difference between a useful result and flagging T-Series for posting its own song.",
+  "official_channels": [
+    "Arijit Singh",
+    "T-Series",
+    "Sony Music India",
+    "Zee Music Company",
+    "Saregama",
+    "Tips Official",
+    "Tips Music",
+    "Times Music",
+    "Speed Records",
+    "Sony Music South",
+    "Muskan Enterprises",
+    "Venus"
+  ],
+
+  "_comment_search": "Aimed at unauthorised AI use, not at his actual songs. The point is to surface people cloning his voice, so the terms name the technique.",
+  "search_terms": [
+    "Arijit Singh AI cover",
+    "Arijit Singh AI song",
+    "Arijit Singh AI voice",
+    "Arijit Singh AI version",
+    "AI Arijit Singh",
+    "Arijit Singh voice clone",
+    "Arijit Singh cover",
+    "Arijit Singh"
+  ],
+
+  "lookback_days": 60,
+
+  "_comment_events": "Weaker signal for a singer than for an actor - his exposure is fairly constant rather than spiking around a release. Add album or tour dates if you know them.",
+  "events": []
+}

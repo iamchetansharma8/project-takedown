@@ -1,0 +1,7 @@
+# collect.py and judge.py run on the standard library alone.
+
+# enrich.py - fetches transcripts, which is where sales pitches live
+youtube-transcript-api>=1.0
+
+# collect_telegram.py - only needed for the Telegram source
+telethon>=1.36

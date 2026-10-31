@@ -1,0 +1,34 @@
+{
+  "id": "example",
+  "name": "Put the person's name here",
+  "_comment_search": "What to search YouTube for. Add nicknames and common misspellings. More terms = more coverage = more quota used.",
+  "search_terms": [
+    "person name",
+    "person name interview",
+    "person name investment",
+    "person name viral"
+  ],
+  "_comment_lookback": "How many days back to search. 30 is a sensible start.",
+  "lookback_days": 30,
+  "_comment_events": "What was happening in this person's life. This is the part that answers 'is it bad for THIS person RIGHT NOW'. Types: film_release, trailer_drop, award_show, tournament, tour, live_controversy, legal_matter, brand_campaign, election, other. days_before/days_after set how long the event counts for - nothing is allowed to go stale silently.",
+  "events": [
+    {
+      "label": "New film releasing",
+      "type": "film_release",
+      "date": "2026-08-15",
+      "days_before": 21,
+      "days_after": 14
+    },
+    {
+      "label": "Trailer dropped",
+      "type": "trailer_drop",
+      "date": "2026-07-20",
+      "days_before": 3,
+      "days_after": 10
+    }
+  ],
+  "aliases": [
+    "Person Name",
+    "Person"
+  ]
+}

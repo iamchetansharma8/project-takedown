@@ -1,0 +1,34 @@
+{
+  "id": "narayana-murthy",
+  "name": "Narayana Murthy",
+
+  "_why_this_person": "The canonical Indian case of a face being used to sell something. Documented losses in your own research: two Bengaluru residents lost a combined 95 lakh to fake videos of him and Mukesh Ambani, a Pune man lost 43 lakh to a Narayana/Sudha Murthy video, and a Bengaluru chartered accountant lost 23.20 lakh. Real money, real victims, a named businessman - and the exact shape a rights owner pays to remove.",
+
+  "_why_transcripts_matter_here": "This is the use case title-only judging cannot see. The video is called 'motivational speech'; the pitch is spoken four minutes in. Run enrich.py before judge.py or this subject will look empty.",
+
+  "aliases": ["Narayana Murthy", "N R Narayana Murthy", "Narayan Murthy", "नारायण मूर्ति"],
+
+  "_comment_official": "Channels entitled to use him. Infosys is his company, so its channel is authorised by definition. News outlets interviewing him are lawful use too, though they are handled separately by the reporting rules rather than here.",
+  "official_channels": [
+    "Infosys",
+    "Narayana Murthy",
+    "Catamaran",
+    "Rishad Premji"
+  ],
+
+  "_comment_search": "Half aimed at the scam pattern, half at ordinary coverage, so there is a real haystack and not just a pile of suspects.",
+  "search_terms": [
+    "Narayana Murthy investment",
+    "Narayana Murthy trading app",
+    "Narayana Murthy recommends",
+    "Narayana Murthy deepfake",
+    "Narayana Murthy AI video",
+    "Narayana Murthy motivational",
+    "Narayana Murthy interview",
+    "Narayana Murthy"
+  ],
+
+  "lookback_days": 90,
+
+  "events": []
+}
